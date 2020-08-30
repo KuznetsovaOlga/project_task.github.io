@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/project_task.github.io/static/css/main.19b6c9ce.chunk.css",
+    "main.js": "/project_task.github.io/static/js/main.b81279cb.chunk.js",
+    "main.js.map": "/project_task.github.io/static/js/main.b81279cb.chunk.js.map",
+    "runtime-main.js": "/project_task.github.io/static/js/runtime-main.8e111b32.js",
+    "runtime-main.js.map": "/project_task.github.io/static/js/runtime-main.8e111b32.js.map",
+    "static/js/2.585c15c9.chunk.js": "/project_task.github.io/static/js/2.585c15c9.chunk.js",
+    "static/js/2.585c15c9.chunk.js.map": "/project_task.github.io/static/js/2.585c15c9.chunk.js.map",
+    "index.html": "/project_task.github.io/index.html",
+    "precache-manifest.cf5dba35f4198db9a12f532e46a462ae.js": "/project_task.github.io/precache-manifest.cf5dba35f4198db9a12f532e46a462ae.js",
+    "service-worker.js": "/project_task.github.io/service-worker.js",
+    "static/css/main.19b6c9ce.chunk.css.map": "/project_task.github.io/static/css/main.19b6c9ce.chunk.css.map",
+    "static/js/2.585c15c9.chunk.js.LICENSE.txt": "/project_task.github.io/static/js/2.585c15c9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/project_task.github.io/static/media/clock.d9eebe02.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e111b32.js",
+    "static/js/2.585c15c9.chunk.js",
+    "static/css/main.19b6c9ce.chunk.css",
+    "static/js/main.b81279cb.chunk.js"
+  ]
+}
